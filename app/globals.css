@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  /* Nossos tokens oficiais do Aura3D mapeados do Figma */
+  --color-aura-bg: #000000;       /* Preto Puro OLED */
+  --color-aura-card: #161617;     /* Cinza Asfalto dos blocos */
+  --color-aura-text: #F5F5F7;     /* Branco Gelo para leitura */
+  --color-aura-sub: #86868B;      /* Cinza Médio para dicas e labels */
+  --color-aura-border: #2C2C2E;   /* Linhas e divisores sutis */
+  --color-aura-accent: #0066CC;   /* Azul Apple Premium */
+}

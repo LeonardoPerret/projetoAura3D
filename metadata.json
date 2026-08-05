@@ -1,0 +1,6 @@
+{
+  "name": "Aura3D Architecture Render Engine",
+  "description": "Plataforma profissional de renderização fotorealista 3D para designers e arquitetos com otimização com inteligência artificial Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
