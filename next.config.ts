@@ -1,12 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  images: {
-    remotePatterns: [
-      { protocol: "https", hostname: "**.fal.media" },
-      { protocol: "https", hostname: "**.supabase.co" },
-    ],
-  },
+  output: "standalone",
+  /* Configurações normais do seu app aqui se precisar no futuro */
 };
 
 export default nextConfig;
